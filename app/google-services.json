@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "270489813425",
+    "firebase_url": "https://smartpen-89fd5.firebaseio.com",
+    "project_id": "smartpen-89fd5",
+    "storage_bucket": "smartpen-89fd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270489813425:android:435a0fb971bee140",
+        "android_client_info": {
+          "package_name": "com.eon.smartpen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270489813425-57oq8hihphlkkks3t6g26324e3tjfitb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eon.smartpen",
+            "certificate_hash": "3c0d00b1313b54dd2b07a41355f71875e2a74073"
+          }
+        },
+        {
+          "client_id": "270489813425-s9diuu258ah2219l1fdefg1vorh6t4fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBjfelUXEOR2SE3szKUJPOUDzPte0eDpg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270489813425-s9diuu258ah2219l1fdefg1vorh6t4fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

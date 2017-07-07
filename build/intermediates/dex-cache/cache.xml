@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.eftimoff/android-pathview/1.0.8/jars/libs/androidsvg-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0cb3453e18fffeb053e9b7f052af3dcec9f75b4">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/androidsvg-1.2.1_445a2571de9616ca23187c77479308490d2db966/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_84d35254afe57520794317914edb369771a07b0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_b0be3b3ee976cbf14c449d7d66338232c24c791a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_5842e5ea0f42b18ebdd9c3319a31b88405097536/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_aea61a15da29fcbc0a9c3f3dac270a77a61ea41a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_2e8e9d6b2b4cba9c9d102db1cae65b638f02f32c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_950a7bf4499bf74f266a72c8d75bbf0535a5c8bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_574cb3827c782b084eeb9ebad59949688e1bd41e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e01d214c2401838aa95b314cb41fe190e5f4b4e9">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7d4dc34a958ec62fce8eded38831df1b365a65ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="323b44b12f43bca46754832c1c42f7e2f2ed2d6e">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c34d5f834b8040a3158df7c503e02b433fcfca1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_93a8fcd2fa29ffd6664945f431bc44eefebf7778/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_8b3e0f96ad5fcfa1d767ba6d8e56821b075d7187/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_e7a8c285dc397814fb9076c529385a18741310df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_5a0074982977773bf5c7b83d40b7bb746f849f86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_a5216f4da7b39af584451e67e58b6dc150b3f84c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.eftimoff/android-pathview/1.0.8/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88c68c6a96cb202c8974833c319dc4a340f29b7e">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.eftimoff-android-pathview-1.0.8_724d1e11c6619040d6443beea282f3e61945e5da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_986d288356d8a15ef3361cfdc1e4cb56bd4a914b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_3a11566a64553cae338edd22c1b4d2f065583972/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_f803cd3518e623c980f8dbc3bd7027e0770103fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_99bc97628fe98504b877859dde6bf126652973e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_8a47bf49f86b72fb8352bf9f02acd3c4068a8004/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/KyuhoLee/AndroidStudioProjects/SmartPen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_ac1b7450302cc520b6416992a1dcb537c6fc3952/classes.dex" />
+    </item>
+
+</items>
